@@ -3,7 +3,7 @@
 	olcPixelGameEngine.h
 
 	+-------------------------------------------------------------+
-	|           OneLoneCoder Pixel Game Engine v2.30              |
+	|           OneLoneCoder Pixel Game Engine v2.31              |
 	|  "What do you need? Pixels... Lots of Pixels..." - javidx9  |
 	+-------------------------------------------------------------+
 
@@ -363,6 +363,7 @@
 		  +Added the Colour "Orange" cos some internet rando made me laugh about it :D
 		  +Changed ClipLineToScreen to ClipLineToDrawTarget
 		  +Fix DrawRotatedDecal() on Linux
+	2.31:
 
 
 	!! Apple Platforms will not see these updates immediately - Sorry, I dont have a mac to test... !!
@@ -443,7 +444,7 @@ int main()
 #include <cstring>
 #pragma endregion
 
-#define PGE_VER 230
+#define PGE_VER 231
 
 // O------------------------------------------------------------------------------O
 // | COMPILER CONFIGURATION ODDITIES                                              |
